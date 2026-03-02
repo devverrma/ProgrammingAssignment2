@@ -1,7 +1,7 @@
 ## cachematrix.R
 ##
-## Create a cache marix object that can be used to
-## repeatably solve the inverse of the marix, but only
+## Create a cache martix object that can be used to
+## repeatably solve the inverse of the martix, but only
 ## calculates the inverse once.
 ##
 ## Usage:
